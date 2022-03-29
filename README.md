@@ -1,0 +1,1 @@
+# visalstudio-dotnet-gitignore
